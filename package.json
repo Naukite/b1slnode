@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Naukite/b1slnode#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-emoji": "^1.10.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }
