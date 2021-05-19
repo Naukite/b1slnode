@@ -1,5 +1,5 @@
 # b1slnode
-Exposing B1 Service Layer through Node js blog post
+Exposing B1 Service Layer through Node js 
 
 Basic SAP Business One Service Layer proxy.
 
